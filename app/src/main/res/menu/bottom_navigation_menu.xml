@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/bottom_nav_timeline"
+        android:enabled="true"
+        android:icon="@drawable/common_google_signin_btn_icon_dark_normal_background"
+        android:title="@string/navigation_bottom_message"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/bottom_nav_contacts"
+        android:icon="@drawable/ic_profil"
+        android:title="@string/navigation_bottom_profil"
+        android:visible="true"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/bottom_nav_chat"
+        android:enabled="true"
+        android:icon="@drawable/ic_chat"
+        android:title="@string/navigation_bottom_chat"
+        app:showAsAction="ifRoom" />
+
+</menu>

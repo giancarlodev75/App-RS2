@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1058175620313",
+    "firebase_url": "https://ensup20.firebaseio.com",
+    "project_id": "ensup20",
+    "storage_bucket": "ensup20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058175620313:android:ff559806b54088c6a29ac8",
+        "android_client_info": {
+          "package_name": "com.example.projetensuprs20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058175620313-eh4kfdlu4pv7hsg93a0c92n454fptfse.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projetensuprs20",
+            "certificate_hash": "32e749fe85a4658a3fb7d7a733aba0596f8daf52"
+          }
+        },
+        {
+          "client_id": "1058175620313-fab5dbigcd8ceg5cnm1bvuoc5let6slf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCReMuB3zdCkF1AyAFavNiDJTvCDtabCAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058175620313-fab5dbigcd8ceg5cnm1bvuoc5let6slf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

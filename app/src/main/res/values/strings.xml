@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Projet RS ENSUP 2020</string>
+
+    <string name="login_email">Email</string>
+    <string name="login_password">Mot de passe</string>
+    <string name="login_confirm_password">Confirmer mot de passe</string>
+    <string name="login_sign_in">Se connecter</string>
+    <string name="login_sign_up">Créer un compte</string>
+    <string name="login_reset_password">Récupérer mon mot de passe</string>
+    <string name="login_sign_in_google">Se connecter avec Google</string>
+    <string name="login_forgot_password">Mot de passe perdu</string>
+    <string name="login_create_account">Créer mon compte</string>
+    <string name="login_go_login">Revenir au login</string>
+
+    <!-- Texte des boutons du bottom menu de navigation -->
+    <string name="navigation_bottom_profil">Profil</string>
+    <string name="navigation_bottom_message">Message</string>
+    <string name="navigation_bottom_chat">Chat</string>
+
+    <string name="chat_edittext">Saisir votre message</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="message">Message</string>
+
+</resources>
